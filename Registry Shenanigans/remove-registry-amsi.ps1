@@ -1,5 +1,6 @@
 
-
+#Reference : https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/
+#Author: payloads45
 
 # Import the registry module
 Import-Module -Name Registry
